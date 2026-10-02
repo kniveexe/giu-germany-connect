@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="8q52sYhywQ1MUPP87wFz">
-    <mxGraphModel dx="1880" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2567" dy="937" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -53,13 +53,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="U-b4H-ByQWz7cMqvlTBD-23" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="Student" vertex="1">
-          <mxGeometry height="40" width="100" x="-240" y="460" as="geometry" />
+          <mxGeometry height="40" width="100" x="-220" y="560" as="geometry" />
         </mxCell>
         <mxCell id="U-b4H-ByQWz7cMqvlTBD-24" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="Giu_Academic" vertex="1">
           <mxGeometry height="40" width="100" x="325" y="580" as="geometry" />
         </mxCell>
         <mxCell id="U-b4H-ByQWz7cMqvlTBD-25" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="Partner_Professor" vertex="1">
-          <mxGeometry height="40" width="100" x="160" y="710" as="geometry" />
+          <mxGeometry height="40" width="100" x="150" y="800" as="geometry" />
         </mxCell>
         <mxCell id="U-b4H-ByQWz7cMqvlTBD-26" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="Company_ Representative" vertex="1">
           <mxGeometry height="40" width="100" x="490" y="580" as="geometry" />
