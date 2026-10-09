@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="IB38Bjb4PIVXqa6me4TJ">
-    <mxGraphModel dx="1725" dy="1538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="992" dy="1054" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,9 +9,6 @@
         </mxCell>
         <mxCell id="piRTGGZn0fWIahRtwyC4-2" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;THESIS_TOPIC&lt;br/&gt;&lt;/code&gt;&lt;/pre&gt;" vertex="1">
           <mxGeometry height="40" width="100" x="570" y="190" as="geometry" />
-        </mxCell>
-        <mxCell id="piRTGGZn0fWIahRtwyC4-3" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;APPLICATION_DOCUMENT&lt;/code&gt;&lt;/pre&gt;" vertex="1">
-          <mxGeometry height="40" width="140" x="1030" y="-130" as="geometry" />
         </mxCell>
         <mxCell id="piRTGGZn0fWIahRtwyC4-4" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;SHORT_PROGRAM&lt;br/&gt;&lt;/code&gt;&lt;/pre&gt;" vertex="1">
           <mxGeometry height="40" width="100" x="700" y="190" as="geometry" />
@@ -279,6 +276,9 @@
             <mxPoint x="1495" y="290" as="sourcePoint" />
             <mxPoint x="1580" y="410" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="mdoSq7XRfAKameQq84Li-59" parent="1" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" value="APPLICATION_DOCUMENT" vertex="1">
+          <mxGeometry height="40" width="170" x="1180" y="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
