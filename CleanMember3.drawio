@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="IB38Bjb4PIVXqa6me4TJ">
-    <mxGraphModel dx="1434" dy="1746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2052" dy="2153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -462,6 +462,36 @@
             <mxPoint x="1340" y="320" as="sourcePoint" />
             <mxPoint x="1330" y="200" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="mdoSq7XRfAKameQq84Li-110" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#314354;fillColor=#647687;align=center;verticalAlign=middle;rounded=0;fontColor=#ffffff;" value="YELLOW SHAPES ARE TEMPORARY&amp;nbsp; AND USED BEFORE THE MERGING" vertex="1">
+          <mxGeometry height="110" width="230" x="1570" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="mdoSq7XRfAKameQq84Li-112" parent="1" style="whiteSpace=wrap;html=1;align=center;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;PROGRAM&lt;/code&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="1030" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="mdoSq7XRfAKameQq84Li-113" parent="1" style="whiteSpace=wrap;html=1;align=center;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;SKILL&lt;/code&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="1040" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="mdoSq7XRfAKameQq84Li-114" parent="1" style="whiteSpace=wrap;html=1;align=center;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;PARTNER_PROFESSOR&lt;/code&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="1040" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="mdoSq7XRfAKameQq84Li-115" parent="1" style="whiteSpace=wrap;html=1;align=center;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;COURSE&lt;br/&gt;&lt;/code&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="1040" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="mdoSq7XRfAKameQq84Li-116" parent="1" style="whiteSpace=wrap;html=1;align=center;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;FIELD&lt;/code&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="1025" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="mdoSq7XRfAKameQq84Li-119" parent="1" style="whiteSpace=wrap;html=1;align=center;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;RESEARCH_AREA&lt;/code&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="1040" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="mdoSq7XRfAKameQq84Li-121" parent="1" style="whiteSpace=wrap;html=1;align=center;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;COMPANY_REPRESENTATIVE&lt;/code&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="1030" y="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="mdoSq7XRfAKameQq84Li-122" parent="1" style="whiteSpace=wrap;html=1;align=center;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;GIU_ACADEMIC&lt;/code&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="1040" y="915" as="geometry" />
+        </mxCell>
+        <mxCell id="mdoSq7XRfAKameQq84Li-123" parent="1" style="whiteSpace=wrap;html=1;align=center;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" value="&lt;div&gt;&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;UNIVERSITY&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="1050" y="1100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
