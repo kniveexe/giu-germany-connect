@@ -8,7 +8,7 @@
           <mxGeometry height="40" width="100" x="700" y="-120" as="geometry" />
         </mxCell>
         <mxCell id="piRTGGZn0fWIahRtwyC4-2" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;THESIS_TOPIC&lt;br/&gt;&lt;/code&gt;&lt;/pre&gt;" vertex="1">
-          <mxGeometry height="40" width="100" x="520" y="190" as="geometry" />
+          <mxGeometry height="40" width="100" x="600" y="190" as="geometry" />
         </mxCell>
         <mxCell id="piRTGGZn0fWIahRtwyC4-3" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;APPLICATION_DOCUMENT&lt;/code&gt;&lt;/pre&gt;" vertex="1">
           <mxGeometry height="40" width="100" x="1070" y="-130" as="geometry" />
@@ -17,7 +17,7 @@
           <mxGeometry height="40" width="100" x="730" y="190" as="geometry" />
         </mxCell>
         <mxCell id="piRTGGZn0fWIahRtwyC4-5" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;MOBILITY_PROGRAM&lt;br/&gt;&lt;/code&gt;&lt;/pre&gt;" vertex="1">
-          <mxGeometry height="40" width="110" x="900" y="190" as="geometry" />
+          <mxGeometry height="40" width="110" x="880" y="190" as="geometry" />
         </mxCell>
         <mxCell id="piRTGGZn0fWIahRtwyC4-6" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;APPLICATION&lt;/code&gt;&lt;/pre&gt;" vertex="1">
           <mxGeometry height="40" width="100" x="1410" y="240" as="geometry" />
