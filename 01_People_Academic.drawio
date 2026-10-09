@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="8q52sYhywQ1MUPP87wFz">
-    <mxGraphModel dx="4479" dy="2035" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3434" dy="1346" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -103,11 +103,11 @@
         <mxCell id="n2M3wFvefaJtKUzAHeZ5-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="GPA" vertex="1">
           <mxGeometry height="40" width="100" x="-1180" y="680" as="geometry" />
         </mxCell>
-        <mxCell id="n2M3wFvefaJtKUzAHeZ5-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="language_level," vertex="1">
+        <mxCell id="n2M3wFvefaJtKUzAHeZ5-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="language_level" vertex="1">
           <mxGeometry height="40" width="100" x="-1050" y="720" as="geometry" />
         </mxCell>
         <mxCell id="n2M3wFvefaJtKUzAHeZ5-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="personal_interests" vertex="1">
-          <mxGeometry height="40" width="100" x="-910" y="720" as="geometry" />
+          <mxGeometry height="50" width="110" x="-910" y="710" as="geometry" />
         </mxCell>
         <mxCell id="n2M3wFvefaJtKUzAHeZ5-20" edge="1" parent="1" source="n2M3wFvefaJtKUzAHeZ5-7" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" target="U-b4H-ByQWz7cMqvlTBD-23" value="">
           <mxGeometry relative="1" as="geometry">
@@ -190,7 +190,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="n2M3wFvefaJtKUzAHeZ5-68" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;  academic_rank&lt;/code&gt;&lt;/pre&gt;" vertex="1">
-          <mxGeometry height="40" width="100" x="35" y="540" as="geometry" />
+          <mxGeometry height="50" width="120" x="35" y="530" as="geometry" />
         </mxCell>
         <mxCell id="n2M3wFvefaJtKUzAHeZ5-70" edge="1" parent="1" source="U-b4H-ByQWz7cMqvlTBD-24" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" target="n2M3wFvefaJtKUzAHeZ5-68" value="">
           <mxGeometry relative="1" as="geometry">
