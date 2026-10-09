@@ -433,7 +433,7 @@
         <mxCell id="mdoSq7XRfAKameQq84Li-99" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="RECEIVES" vertex="1">
           <mxGeometry height="60" width="120" x="2480" y="-420" as="geometry" />
         </mxCell>
-        <mxCell id="mdoSq7XRfAKameQq84Li-100" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="SUBMITS" vertex="1">
+        <mxCell id="mdoSq7XRfAKameQq84Li-100" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="RECEIVES" vertex="1">
           <mxGeometry height="60" width="120" x="1190" y="230" as="geometry" />
         </mxCell>
         <mxCell id="mdoSq7XRfAKameQq84Li-101" edge="1" parent="1" source="mdoSq7XRfAKameQq84Li-100" style="fontSize=12;html=1;endArrow=ERmandOne;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" target="piRTGGZn0fWIahRtwyC4-1" value="">
@@ -447,6 +447,9 @@
             <mxPoint x="1150" y="100" as="sourcePoint" />
             <mxPoint x="1250" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="mdoSq7XRfAKameQq84Li-103" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="Relationship" vertex="1">
+          <mxGeometry height="60" width="120" x="1140" y="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
