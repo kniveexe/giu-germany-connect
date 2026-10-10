@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="XMYpdMhWPCMEX6fGX8cj">
-    <mxGraphModel dx="1392" dy="1054" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2879" dy="2035" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1063,6 +1063,12 @@
             <mxPoint x="2040.0000000000005" y="1090" as="sourcePoint" />
             <mxPoint x="2325" y="840" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="gu-pJHOHMUn7C8850LWZ-105" parent="1" style="whiteSpace=wrap;html=1;align=center;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" value="GIU_ACADEMIC" vertex="1">
+          <mxGeometry height="40" width="100" x="2930" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="gu-pJHOHMUn7C8850LWZ-106" parent="1" style="whiteSpace=wrap;html=1;align=center;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" value="PARTNER_PROFESSOR" vertex="1">
+          <mxGeometry height="40" width="170" x="2930" y="550" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
