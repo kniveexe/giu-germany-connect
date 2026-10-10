@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="XMYpdMhWPCMEX6fGX8cj">
-    <mxGraphModel dx="2879" dy="2035" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1602" dy="1193" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1021,6 +1021,12 @@
             <mxPoint x="2660" y="690" as="sourcePoint" />
             <mxPoint x="2450" y="810" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="gu-pJHOHMUn7C8850LWZ-94" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="&lt;code&gt;RESEARCH_AREA&lt;/code&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="2780" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="gu-pJHOHMUn7C8850LWZ-95" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="&lt;code&gt;RESEARCH_AGREEMENT&lt;/code&gt;" vertex="1">
+          <mxGeometry height="40" width="130" x="2780" y="460" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
