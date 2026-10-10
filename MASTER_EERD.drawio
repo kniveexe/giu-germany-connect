@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Master EERD" id="master-eerd-blank">
-    <mxGraphModel dx="688" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2052" dy="1353" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1740,9 +1740,6 @@
         </mxCell>
         <mxCell id="-5Lqmwtab38IZprMeqAQ-418" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#314354;fillColor=#647687;align=center;verticalAlign=middle;rounded=0;fontColor=#ffffff;" value="YELLOW SHAPES ARE TEMPORARY&amp;nbsp; AND USED BEFORE THE MERGING" vertex="1">
           <mxGeometry height="110" width="230" x="3570" y="5600" as="geometry" />
-        </mxCell>
-        <mxCell id="-5Lqmwtab38IZprMeqAQ-425" parent="1" style="whiteSpace=wrap;html=1;align=center;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;COMPANY_REPRESENTATIVE&lt;/code&gt;&lt;/pre&gt;" vertex="1">
-          <mxGeometry height="40" width="160" x="2247.5" y="3100" as="geometry" />
         </mxCell>
         <mxCell id="-5Lqmwtab38IZprMeqAQ-427" parent="1" style="whiteSpace=wrap;html=1;align=center;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" value="&lt;div&gt;&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;UNIVERSITY&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="40" width="100" x="1407.5" y="4700" as="geometry" />
