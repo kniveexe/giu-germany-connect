@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="IB38Bjb4PIVXqa6me4TJ">
-    <mxGraphModel dx="1680" dy="1644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2125" dy="1938" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry height="40" width="100" x="700" y="-120" as="geometry" />
         </mxCell>
         <mxCell id="piRTGGZn0fWIahRtwyC4-2" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;THESIS_TOPIC&lt;br/&gt;&lt;/code&gt;&lt;/pre&gt;" vertex="1">
-          <mxGeometry height="40" width="100" x="570" y="190" as="geometry" />
+          <mxGeometry height="40" width="100" x="520" y="190" as="geometry" />
         </mxCell>
         <mxCell id="piRTGGZn0fWIahRtwyC4-4" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;SHORT_PROGRAM&lt;br/&gt;&lt;/code&gt;&lt;/pre&gt;" vertex="1">
           <mxGeometry height="40" width="100" x="700" y="190" as="geometry" />
@@ -53,37 +53,37 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mdoSq7XRfAKameQq84Li-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;ID  &lt;/code&gt;&lt;/pre&gt;" vertex="1">
-          <mxGeometry height="40" width="100" x="120" y="-300" as="geometry" />
+          <mxGeometry height="40" width="100" x="65" y="-400" as="geometry" />
         </mxCell>
         <mxCell id="mdoSq7XRfAKameQq84Li-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;application_start_date&lt;/code&gt;&lt;/pre&gt;" vertex="1">
-          <mxGeometry height="40" width="170" x="30" y="-130" as="geometry" />
+          <mxGeometry height="40" width="170" x="-70" y="-200" as="geometry" />
         </mxCell>
         <mxCell id="mdoSq7XRfAKameQq84Li-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;relevant_dates&lt;br/&gt;&lt;/code&gt;&lt;/pre&gt;" vertex="1">
-          <mxGeometry height="40" width="100" x="20" y="100" as="geometry" />
+          <mxGeometry height="40" width="100" x="-90" y="40" as="geometry" />
         </mxCell>
         <mxCell id="mdoSq7XRfAKameQq84Li-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;type&lt;/code&gt;&lt;/pre&gt;" vertex="1">
-          <mxGeometry height="40" width="100" x="80" y="-180" as="geometry" />
+          <mxGeometry height="40" width="100" x="-20" y="-270" as="geometry" />
         </mxCell>
         <mxCell id="mdoSq7XRfAKameQq84Li-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;language_requirements&lt;/code&gt;&lt;/pre&gt;" vertex="1">
-          <mxGeometry height="40" width="150" y="150" as="geometry" />
+          <mxGeometry height="40" width="150" x="-80" y="110" as="geometry" />
         </mxCell>
         <mxCell id="mdoSq7XRfAKameQq84Li-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;description&lt;/code&gt;&lt;/pre&gt;" vertex="1">
-          <mxGeometry height="40" width="100" x="90" y="-240" as="geometry" />
+          <mxGeometry height="40" width="100" x="20" y="-330" as="geometry" />
         </mxCell>
         <mxCell id="mdoSq7XRfAKameQq84Li-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;title&lt;/code&gt;&lt;/pre&gt;" vertex="1">
-          <mxGeometry height="40" width="100" x="200" y="-340" as="geometry" />
+          <mxGeometry height="40" width="100" x="180" y="-440" as="geometry" />
         </mxCell>
         <mxCell id="mdoSq7XRfAKameQq84Li-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;application_end_date&lt;/code&gt;&lt;/pre&gt;" vertex="1">
-          <mxGeometry height="40" width="160" x="20" y="-70" as="geometry" />
+          <mxGeometry height="40" width="160" x="-95" y="-130" as="geometry" />
         </mxCell>
         <mxCell id="mdoSq7XRfAKameQq84Li-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;capacity&lt;br/&gt;&lt;/code&gt;&lt;/pre&gt;" vertex="1">
-          <mxGeometry height="40" width="100" x="20" y="-10" as="geometry" />
+          <mxGeometry height="40" width="100" x="-90" y="-70" as="geometry" />
         </mxCell>
         <mxCell id="mdoSq7XRfAKameQq84Li-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;location_mode&lt;/code&gt;&lt;/pre&gt;" vertex="1">
-          <mxGeometry height="40" width="100" x="20" y="50" as="geometry" />
+          <mxGeometry height="40" width="100" x="-80" y="-20" as="geometry" />
         </mxCell>
         <mxCell id="mdoSq7XRfAKameQq84Li-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="status" vertex="1">
-          <mxGeometry height="40" width="100" x="160" y="180" as="geometry" />
+          <mxGeometry height="40" width="100" x="-30" y="160" as="geometry" />
         </mxCell>
         <mxCell id="mdoSq7XRfAKameQq84Li-14" edge="1" parent="1" source="mdoSq7XRfAKameQq84Li-8" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="piRTGGZn0fWIahRtwyC4-1" value="">
           <mxGeometry relative="1" as="geometry">
@@ -188,7 +188,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mdoSq7XRfAKameQq84Li-35" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="duration" vertex="1">
-          <mxGeometry height="40" width="100" x="635" y="550" as="geometry" />
+          <mxGeometry height="40" width="100" x="620" y="360" as="geometry" />
         </mxCell>
         <mxCell id="mdoSq7XRfAKameQq84Li-37" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="hosting_arrangements" vertex="1">
           <mxGeometry height="40" width="130" x="790" y="530" as="geometry" />
@@ -579,18 +579,6 @@
             <mxPoint x="30" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mdoSq7XRfAKameQq84Li-154" edge="1" parent="1" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;" value="">
-          <mxGeometry height="100" relative="1" width="100" as="geometry">
-            <mxPoint x="-180" y="120" as="sourcePoint" />
-            <mxPoint x="-80" y="20" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mdoSq7XRfAKameQq84Li-157" edge="1" parent="1" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;rounded=0;" value="">
-          <mxGeometry height="100" relative="1" width="100" as="geometry">
-            <mxPoint x="-240" y="-60" as="sourcePoint" />
-            <mxPoint x="-140" y="-160" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="mdoSq7XRfAKameQq84Li-161" edge="1" parent="1" source="mdoSq7XRfAKameQq84Li-144" style="fontSize=12;html=1;endArrow=ERzeroToMany;endFill=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" target="piRTGGZn0fWIahRtwyC4-2" value="">
           <mxGeometry height="100" relative="1" width="100" as="geometry">
             <mxPoint x="270" y="770" as="sourcePoint" />
@@ -614,6 +602,15 @@
             <mxPoint x="80" y="1180" as="sourcePoint" />
             <mxPoint x="180" y="1080" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="mdoSq7XRfAKameQq84Li-168" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt; HOSTED_BY&lt;/code&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1180" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="mdoSq7XRfAKameQq84Li-169" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt; SENT_FROM&lt;/code&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1190" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="mdoSq7XRfAKameQq84Li-170" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;HOSTED_BY&lt;/code&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1450" y="1060" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
