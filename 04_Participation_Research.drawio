@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="XMYpdMhWPCMEX6fGX8cj">
-    <mxGraphModel dx="2734" dy="821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1834" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -694,6 +694,30 @@
         </mxCell>
         <mxCell id="AQ6sOECWYKqRhnFocZBg-215" edge="1" parent="1" source="AQ6sOECWYKqRhnFocZBg-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="AQ6sOECWYKqRhnFocZBg-115">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gu-pJHOHMUn7C8850LWZ-1" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="PROGRAM_PARTICIPATION" vertex="1">
+          <mxGeometry height="40" width="170" x="1000" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="gu-pJHOHMUn7C8850LWZ-2" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="MOBILITY" vertex="1">
+          <mxGeometry height="40" width="100" x="1010" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="gu-pJHOHMUn7C8850LWZ-3" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="RESEARCH_OUTPUT" vertex="1">
+          <mxGeometry height="40" width="130" x="1020" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="gu-pJHOHMUn7C8850LWZ-4" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="PARTICIPATION" vertex="1">
+          <mxGeometry height="40" width="100" x="1000" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="gu-pJHOHMUn7C8850LWZ-5" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="&lt;div&gt;&lt;p&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;RESEARCH_PROJECT&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="140" x="1010" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="gu-pJHOHMUn7C8850LWZ-6" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="NOTIFICATION" vertex="1">
+          <mxGeometry height="40" width="100" x="1020" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="gu-pJHOHMUn7C8850LWZ-7" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="&lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div&gt;&lt;p&gt;FUNDING_OPPORTUNITY&lt;/p&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="1020" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="gu-pJHOHMUn7C8850LWZ-9" parent="1" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" value="COURSE_EQUIVALENCY" vertex="1">
+          <mxGeometry height="40" width="160" x="1500" y="490" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
