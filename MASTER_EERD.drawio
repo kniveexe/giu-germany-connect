@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Master EERD" id="master-eerd-blank">
-    <mxGraphModel dx="3606" dy="2379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4250" dy="2804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -262,7 +262,12 @@
           <mxGeometry height="60" width="120" x="1930" y="1910" as="geometry" />
         </mxCell>
         <mxCell id="-5Lqmwtab38IZprMeqAQ-57" edge="1" parent="1" source="-5Lqmwtab38IZprMeqAQ-56" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;endFill=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="-5Lqmwtab38IZprMeqAQ-12" value="">
-          <mxGeometry height="100" relative="1" width="100" x="0.0456" as="geometry">
+          <mxGeometry height="100" relative="1" width="100" x="-0.2232" as="geometry">
+            <Array as="points">
+              <mxPoint x="1990" y="1885" />
+              <mxPoint x="1920" y="1885" />
+              <mxPoint x="1920" y="1840" />
+            </Array>
             <mxPoint x="2000" y="1880" as="sourcePoint" />
             <mxPoint x="2010" y="1830" as="targetPoint" />
           </mxGeometry>
@@ -1731,9 +1736,6 @@
         <mxCell id="-5Lqmwtab38IZprMeqAQ-420" parent="1" style="whiteSpace=wrap;html=1;align=center;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;SKILL&lt;/code&gt;&lt;/pre&gt;" vertex="1">
           <mxGeometry height="40" width="100" x="1932.5" y="3590" as="geometry" />
         </mxCell>
-        <mxCell id="-5Lqmwtab38IZprMeqAQ-421" parent="1" style="whiteSpace=wrap;html=1;align=center;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;PARTNER_PROFESSOR&lt;/code&gt;&lt;/pre&gt;" vertex="1">
-          <mxGeometry height="40" width="120" x="667.5" y="5110" as="geometry" />
-        </mxCell>
         <mxCell id="-5Lqmwtab38IZprMeqAQ-422" parent="1" style="whiteSpace=wrap;html=1;align=center;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;COURSE&lt;br/&gt;&lt;/code&gt;&lt;/pre&gt;" vertex="1">
           <mxGeometry height="40" width="100" x="1797.5" y="3480" as="geometry" />
         </mxCell>
@@ -1856,10 +1858,17 @@
             <mxPoint x="567.5" y="4940" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-5Lqmwtab38IZprMeqAQ-448" edge="1" parent="1" source="-5Lqmwtab38IZprMeqAQ-440" style="fontSize=12;html=1;endArrow=ERzeroToOne;endFill=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" target="-5Lqmwtab38IZprMeqAQ-421" value="">
+        <mxCell id="-5Lqmwtab38IZprMeqAQ-448" edge="1" parent="1" source="-5Lqmwtab38IZprMeqAQ-440" style="fontSize=12;html=1;endArrow=ERzeroToOne;endFill=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" target="-5Lqmwtab38IZprMeqAQ-12" value="">
           <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <Array as="points">
+              <mxPoint x="777.5" y="4820" />
+              <mxPoint x="70" y="4820" />
+              <mxPoint x="70" y="2470" />
+              <mxPoint x="1850" y="2470" />
+              <mxPoint x="1850" y="1860" />
+            </Array>
             <mxPoint x="787.5" y="5110" as="sourcePoint" />
-            <mxPoint x="887.5" y="5010" as="targetPoint" />
+            <mxPoint x="727.5" y="5110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-5Lqmwtab38IZprMeqAQ-449" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt; HOSTED_BY&lt;/code&gt;&lt;/pre&gt;" vertex="1">
