@@ -430,7 +430,7 @@
             <mxPoint x="1750" y="-60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mdoSq7XRfAKameQq84Li-99" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value=" SUBMITTED_BY" vertex="1">
+        <mxCell id="mdoSq7XRfAKameQq84Li-99" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="SUBMITS" vertex="1">
           <mxGeometry height="60" width="120" x="1240" y="390" as="geometry" />
         </mxCell>
         <mxCell id="mdoSq7XRfAKameQq84Li-100" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="RECEIVES" vertex="1">
@@ -656,7 +656,7 @@
         <mxCell id="D2zv2RfZXZ2SvKZZJ0AK-1" parent="1" style="whiteSpace=wrap;html=1;align=center;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" value="PERSON" vertex="1">
           <mxGeometry height="40" width="100" x="530" y="1030" as="geometry" />
         </mxCell>
-        <mxCell id="D2zv2RfZXZ2SvKZZJ0AK-4" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="SUBMITS" vertex="1">
+        <mxCell id="D2zv2RfZXZ2SvKZZJ0AK-4" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value=" SUBMITTED_BY" vertex="1">
           <mxGeometry height="60" width="120" x="520" y="770" as="geometry" />
         </mxCell>
         <mxCell id="D2zv2RfZXZ2SvKZZJ0AK-5" edge="1" parent="1" source="D2zv2RfZXZ2SvKZZJ0AK-4" style="fontSize=12;html=1;endArrow=ERzeroToMany;endFill=1;rounded=0;entryX=0.925;entryY=1.028;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" target="piRTGGZn0fWIahRtwyC4-2" value="">
