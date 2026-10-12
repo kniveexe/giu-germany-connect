@@ -1,0 +1,34 @@
+name: Build Team 44 submission package
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/team44-submission.yml'
+      - 'scripts/build_team44_submission.py'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  package:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install PDF builder dependencies
+        run: pip install reportlab python-docx
+      - name: Generate PDFs and ZIP
+        run: python scripts/build_team44_submission.py
+      - name: Commit generated submission artifacts to GitHub
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add submission/GIU_Connect_ERD.pdf submission/GIU_Connect_Relational_Schema.pdf submission/TEAM_44_GIU_Germany_Connect_Submission.zip submission/SUBMISSION_README.txt
+          git diff --cached --quiet || git commit -m "Build final Team 44 PDFs and submission ZIP"
+          git push
+      - name: Upload submission ZIP as workflow artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: Team44-GIU-Submission
+          path: submission/TEAM_44_GIU_Germany_Connect_Submission.zip
